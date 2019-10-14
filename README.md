@@ -1,2 +1,3 @@
 set of Mnova files to test NMR record generation.
+For demo, check example of NMReDATA records...
 
